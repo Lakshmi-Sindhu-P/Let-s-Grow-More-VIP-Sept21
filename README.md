@@ -2,7 +2,7 @@
 # 🌱 LetsGrowMore — Virtual Internship Program (VIP)
 ### Data Science Intern | September 2021
 
-![LetsGrowMore]![Cover page](https://user-images.githubusercontent.com/69778063/133379817-69c94782-0456-48d5-ad80-43c076bae144.png)
+![Cover page](https://user-images.githubusercontent.com/69778063/133379817-69c94782-0456-48d5-ad80-43c076bae144.png)
 
 ---
 
